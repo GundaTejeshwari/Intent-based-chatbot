@@ -14,14 +14,21 @@ Customizable Intents: Easily add or modify intents to tailor the chatbot for var
 
 🎯 Use Cases
 This chatbot is perfect for
+
 Customer support
+
 FAQ automation
+
 Educational assistance
+
 Any domain-specific conversational AI applications
 
 
 🛠️ Tech Stack
 Python: Core programming language.
+
 Natural Language Processing (NLP): Preprocessing and intent recognition.
+
 Logistic Regression: For intent classification.
+
 Streamlit: Web-based interface for interaction
